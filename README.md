@@ -23,12 +23,12 @@ I am a **Certified Kubernetes Administrator (CKA)** and **AWS Certified Solution
 ---
 
 ## 🔧 **Core Competencies**  
-- **Cloud Platforms:** AWS (EC2, S3, RDS, EKS), Azure  
-- **Containerization & Orchestration:** Docker, Kubernetes, EKS  
+- **Cloud Platforms:** AWS (VPC, EC2, Lambda, Api-Gateway, S3, RDS, WAF, ECS, EKS Cloudfront, Route53), GCP, Azure DevOps
+- **Containerization & Orchestration:** Docker, Kubernetes, EKS
 - **Infrastructure as Code (IaC):** Terraform, Ansible  
-- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD  
+- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD
 - **Monitoring Tools:** Prometheus, Grafana, New Relic, DataDog  
-- **Networking & Security:** VPC, Load Balancers, SSL/TLS  
+- **Networking & Security:** VPC, Subnets, Load Balancers, SSL/TLS
 
 ---
 
