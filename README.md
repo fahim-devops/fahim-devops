@@ -1,6 +1,8 @@
-# 💻 Fahim Ur Rehman  
+![image](https://github.com/user-attachments/assets/cef95c99-a759-4112-a6e7-98628bd10a73)
 
-🚀 **DevOps Engineer | Kubernetes Administrator | AWS & Azure Cloud Specialist**  
+# 💻 Hi there, I'm Fahim 👋
+
+🚀 **DevOps Engineer | Kubernetes Administrator | AWS, GCP & Azure Cloud Specialist**  
 🌍 **Lahore, Pakistan**  
 📧 **[fahim.devops@gmail.com](mailto:fahim.devops@gmail.com)**  
 📞 **+92-323-9613313**  
