@@ -16,9 +16,12 @@ I am a **Certified Kubernetes Administrator (CKA)** and **AWS Certified Solution
 ---
 
 ## 🏆 **Certifications**  
-- 🏅 **Certified Kubernetes Administrator (CKA)**  
-- 🏅 **AWS Certified Solutions Architect (Associate)**  
+- 🏅 **Certified Kubernetes Administrator (CKA)**
+    [🔗 Verification Link](https://www.credly.com/badges/ec2f4381-6081-4c9d-9a05-163d3b7a3d75/public_url)
+- 🏅 **AWS Certified Solutions Architect (Associate)**
+    [🔗 Verification Link](https://www.credly.com/badges/a68c10dc-7eff-4055-9170-2e8e9e063be7/public_url)  
 - 🏅 **Terraform Associate Certification**  
+    [🔗 Verification Link](https://www.credly.com/badges/1ce4f4d3-6e45-404c-a93e-b1e49db48024/public_url)  
 
 ---
 
