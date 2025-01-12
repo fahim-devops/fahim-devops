@@ -1,4 +1,4 @@
-![DevOps GIF](https://simplecoding.dev/wp-content/uploads/2021/06/devops.gif)  
+![DevOps GIF](assets/devops.gif)
 
 # 💻 Hi there, I'm Fahim 👋
 
