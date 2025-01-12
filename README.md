@@ -2,6 +2,8 @@
 
 # 💻 Hi there, I'm Fahim 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=fahim-ur-rehman&color=blue) 
+
 🚀 **DevOps Engineer | Kubernetes Administrator | AWS, GCP & Azure Cloud Specialist**  
 🌍 **Lahore, Pakistan**  
 📧 **[fahim.devops@gmail.com](mailto:fahim.devops@gmail.com)**  
